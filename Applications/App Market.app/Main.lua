@@ -22,7 +22,7 @@ local overviewForceDecay = 0.15
 local overviewForceLimit = 0.5
 local overviewMaximumTouchAcceleration = 5
 
-local appMarketPath = paths.user.applicationData .. "App Market/"
+local appMarketPath = paths.user.applicationData .. "App Store/"
 local configPath = appMarketPath .. "Config.cfg"
 local userPath = appMarketPath .. "User.cfg"
 local iconCachePath = appMarketPath .. "Cache/"
