@@ -13,7 +13,7 @@ Here's a list of a few features:
 -   File sharing over the local network via modems
 -   Client connections to real world FTP servers
 -   An internal IDE with syntax highlighting and debugger
--   App Market for publishing programs for every MineOS user
+-   App Store for publishing programs for every CloudCandyOS user
 -   Error reporting system with the possibility to send information to developers
 -   Animations, wallpapers, screensavers, color schemes and huge customization possibilities
 -   Open source system API and detailed illustrated documentations
