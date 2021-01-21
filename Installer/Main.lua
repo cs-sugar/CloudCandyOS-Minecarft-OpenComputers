@@ -5,7 +5,7 @@ local repositoryURL = "https://raw.githubusercontent.com/cs-sugar/CloudCandyOS-M
 local installerURL = "Installer/"
 local EFIURL = "EFI/Minified.lua"
 
-local installerPath = "/MineOS installer/"
+local installerPath = "/CloudCandyOS installer/"
 local installerPicturesPath = installerPath .. "Installer/Pictures/"
 local OSPath = "/"
 
