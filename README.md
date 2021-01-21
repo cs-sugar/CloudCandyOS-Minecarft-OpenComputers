@@ -2,7 +2,7 @@
 ## CloudCandyOS-Minecarft-OpenComputers Standalone has released!
 
 Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. CloudCandyOS has finally reached the release stage: now it is a completely independent operating system with its own lightweight development API and wonderful [illustrated wiki](https://github.com/cs-sugar/CloudCandyOS-Minecarft-OpenComputers/wiki) of it's usage. 
-MineOS is a GUI based operating system for the Open Computers minecraft mod. It has extensive and powerful customisation abilities as well as an app market to publish your creations among the community.
+CloudCandyOS is a GUI based operating system for the Open Computers minecraft mod. It has extensive and powerful customisation abilities as well as an app market to publish your creations among the community.
 Here's a list of a few features:
 
 -   Multitasking
