@@ -1,5 +1,5 @@
 {
-	downloading = "Downloading in progress",
+	downloading = "Downloading…",
 	CPUArchitecture = "CPU architecture",
 	RAMControl = "RAM control",
 	packageUnloading = "Automatic unloading",
@@ -64,7 +64,7 @@
 	newFile = "File",
 	newFileFromURL = "File from URL",
 	newImage = "Image",
-	newApplication = "MineOS application",
+	newApplication = "CloudCandyOS application",
 	paste = "Paste",
 	copy = "Copy",
 	cut = "Cut",
