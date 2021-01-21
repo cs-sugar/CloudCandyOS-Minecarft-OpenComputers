@@ -78,7 +78,7 @@ local fileNotExistsIcon = image.load(currentScriptDirectory .. "Icons/FileNotExi
 local scriptIcon = image.load(currentScriptDirectory .. "Icons/Script.pic")
 
 local search = ""
-local appWidth, appHeight, appHSpacing, appVSpacing, currentPage, appsPerPage, appsPerWidth, appsPerHeight = 32, 6, 2, 1, 0
+local appWidth, appHeight, appHSpacing, appVSpacing, currentPage, appsPerPage, appsPerWidth, appsPerHeight = 30, 4, 2, 1, 0
 local config, userVersions, systemVersions, user
 local updateFileList, editPublication, messagesItem
 
